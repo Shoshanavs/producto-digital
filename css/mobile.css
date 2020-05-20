@@ -1,0 +1,27 @@
+@media (max-width: 600px){
+
+	.Menu{
+	display: inherit;
+	height:auto;
+	width: auto;
+	}
+	
+	.productos{
+	display: inherit;
+	height:auto;
+	margin-top:auto;
+	}
+
+	.box{
+		margin-top: auto;
+	}
+	.portada{
+		padding:4%;
+	}
+	.Caracteristicas, .Menciones,.items{
+		display:inherit;
+		margin-top:auto;
+		height:auto;
+	width: auto;
+	}
+	
